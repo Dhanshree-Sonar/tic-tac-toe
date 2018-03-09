@@ -11,11 +11,11 @@ The app stores the moves made by players and gives option to go back to any step
 
 ## How to run
 
-- Create react app
+- Create react app<br>
   `create-react-app tic-tac-toe`
-- Change directory to tic-tac-toe
+- Change directory to tic-tac-toe<br>
   `cd tic-tac-toe`
-- Remove all files from `src/` folder
+- Remove all files from `src/` folder<br>
   `rm -f src/*`
 - Download files (index.js and index.css) from [repo](https://github.com/Dhanshree-Sonar/tic-tac-toe)
 - Copy files to `~/tic-tac-toe/src/` folder
