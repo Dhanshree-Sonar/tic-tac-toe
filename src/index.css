@@ -7,6 +7,19 @@ ol, ul {
   padding-left: 30px;
 }
 
+button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    background-color: white;
+    color: black;
+    border: 2px solid #99c2ff
+}
+
+button:hover {
+    background-color: #99c2ff; /* Green */
+    color: white;
+}
+
 .board-row:after {
   clear: both;
   content: "";
