@@ -11,7 +11,7 @@ button {
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     background-color: white;
-    color: black;
+    color: #99c2ff;
     border: 2px solid #99c2ff
 }
 
